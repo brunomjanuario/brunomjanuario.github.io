@@ -1,3 +1,6 @@
-title: AI Fundamentals Log
-description: Daily notes and progress from studying AI fundamentals.
+title: Bruno Januário
+description: Personal blog — notes, projects, and daily study logs.
 theme: minima
+
+header_pages:
+  - ai-fundamentals.md
