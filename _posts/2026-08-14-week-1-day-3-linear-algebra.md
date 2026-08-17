@@ -2,7 +2,7 @@
 title: "Week 1, Day 3 — Linear Algebra: Cross Products and Cramer's Rule"
 date: 2026-08-14 09:00:00 +0000
 categories: [AI Fundamentals]
-tags: [linear-algebra, 3blue1brown]
+tags: [ai-fundamentals, linear-algebra, 3blue1brown]
 math: true
 ---
 

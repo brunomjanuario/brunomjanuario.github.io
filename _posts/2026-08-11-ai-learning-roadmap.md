@@ -2,7 +2,7 @@
 title: "My AI Learning Roadmap"
 date: 2026-08-11 10:00:00 +0000
 categories: [AI Fundamentals]
-tags: [roadmap, learning-plan]
+tags: [ai-fundamentals, roadmap, learning-plan]
 ---
 
 I'm kicking off a ~42 week journey (about 10 months at 8-10 hrs/week) to go from

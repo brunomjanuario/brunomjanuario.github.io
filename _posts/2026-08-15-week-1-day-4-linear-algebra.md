@@ -2,7 +2,7 @@
 title: "Week 1, Day 4 — Linear Algebra: Change of Basis and Eigenvectors"
 date: 2026-08-15 09:00:00 +0000
 categories: [AI Fundamentals]
-tags: [linear-algebra, 3blue1brown]
+tags: [ai-fundamentals, linear-algebra, 3blue1brown]
 math: true
 ---
 
