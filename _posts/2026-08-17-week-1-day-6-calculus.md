@@ -1,5 +1,5 @@
 ---
-title: "Week 1, Day 6 — Calculus: Integrals, Derivatives, and the Paradox"
+title: "Week 2, Day 6 — Calculus: Integrals, Derivatives, and the Paradox"
 date: 2026-08-17 09:00:00 +0000
 categories: [AI Fundamentals]
 tags: [ai-fundamentals, calculus, 3blue1brown]
