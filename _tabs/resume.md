@@ -1,7 +1,7 @@
 ---
 title: Résumé
 icon: fas fa-user-tie
-order: 1
+order: 0
 toc: true
 ---
 
@@ -81,12 +81,12 @@ html[data-mode="dark"] .rz { --rz-accent: #4dd0c4; }
 </div>
 
 <p>
-Software Developer with 3+ years of international experience delivering high-impact
+Software Developer with 4+ years of international experience delivering high-impact
 solutions across the <strong>automotive</strong>, <strong>e-commerce</strong>, and
 <strong>finance</strong> sectors. Proficient in <strong>Java, Kotlin, Spring Boot,
 and AWS</strong>, with strong expertise in designing scalable microservices and
 backend systems. Currently working on a banking platform for <strong>BNP
-Paribas</strong>, following an e-commerce role at Mercedes-Benz IO where I led a
+Paribas</strong>, following an e-commerce role at Mercedes-Benz IO where I develop a
 leasing and financing calculator that reduced bug tickets by 80%. I bring a
 proactive, quality-driven approach and thrive in cross-functional teams focused on
 delivering real value.

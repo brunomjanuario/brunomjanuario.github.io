@@ -1,6 +1,6 @@
 ---
 icon: fas fa-brain
-order: 0
+order: 1
 ---
 
 Daily study log on AI fundamentals.
