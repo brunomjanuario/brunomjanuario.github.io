@@ -1,5 +1,5 @@
 ---
-title: Résumé
+title: Resume
 icon: fas fa-user-tie
 order: 0
 toc: true
