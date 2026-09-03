@@ -1,6 +1,6 @@
 ---
 title: "Week 2, Checkpoint — Gradients by Hand, Verified with SymPy"
-date: 2026-09-02 09:00:00 +0000
+date: 2026-09-02 00:00:00 +0000
 categories: [AI Fundamentals]
 tags: [ai-fundamentals, calculus, python, sympy]
 math: true
