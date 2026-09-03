@@ -1,6 +1,6 @@
 ---
 title: "Week 3, Day 12 — NumPy and Matplotlib: Arrays, dtypes, Views, and Plots"
-date: 2026-09-03 19:00:00 +0000
+date: 2026-09-03 00:00:00 +0000
 categories: [AI Fundamentals]
 tags: [ai-fundamentals, python, numpy, matplotlib]
 math: true
