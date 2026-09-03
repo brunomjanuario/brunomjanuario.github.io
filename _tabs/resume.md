@@ -179,6 +179,7 @@ delivering real value.
     <span class="rz-tag">Hibernate</span>
     <span class="rz-tag">Angular</span>
     <span class="rz-tag">ExtJS</span>
+    <span class="rz-tag">Python</span>
   </div>
 </div>
 
